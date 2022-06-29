@@ -1,4 +1,4 @@
-# Pub-Sub Messaging with Laravel and Apache Kafka Example (Publisher)
+# Pub-Sub Messaging with Laravel and Apache Kafka Example (Subscriber)
 
 ## Connect to database
 
